@@ -11,3 +11,7 @@ end
 def first_element (two_elements)
   two_elements.first 
 end
+
+def third_element (two_elements)
+  third_element[2]
+end
