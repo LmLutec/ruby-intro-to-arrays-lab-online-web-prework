@@ -12,7 +12,6 @@ def first_element (two_elements)
   two_elements.first 
 end
 
- 
 def my_third_element (two_elements)
   two_elements[2]
 end
