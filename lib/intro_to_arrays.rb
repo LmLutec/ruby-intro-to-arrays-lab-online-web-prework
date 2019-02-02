@@ -28,4 +28,8 @@ def last_element_with_array_methods(last_element_with_array)
   last_element_with_array.last 
 end
 
+def length_of_array(length_of_array)
+  length_of_array.length
+end
+
 
