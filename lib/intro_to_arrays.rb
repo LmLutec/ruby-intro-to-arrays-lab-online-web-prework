@@ -9,5 +9,6 @@ two_elements
 end
 
 def first_element
-  two_elements.first 
+  indexing = ['one', 'new' , 'element']
+  indexing.first 
 end
