@@ -4,7 +4,7 @@ colors
 end
 
 def array_with_two_elements
-two_elements = ['shoes', 'hats' , 'shirts' , 'socks' , 'pants']
+two_elements = ['shoes', 'hats']
 two_elements
 end
 
