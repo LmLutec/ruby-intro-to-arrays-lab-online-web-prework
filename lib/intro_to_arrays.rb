@@ -8,7 +8,6 @@ two_elements = ['shoes', 'hats']
 two_elements
 end
 
-def first_element
-  two_elements = ['shoes', 'shirts', 'hats']
+def first_element (two_elements)
   two_elements.first 
 end
