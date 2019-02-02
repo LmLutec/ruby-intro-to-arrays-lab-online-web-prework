@@ -13,6 +13,5 @@ def first_element (two_elements)
 end
 
 def third_element (three_elements)
-  
   three_elements[2]
 end
