@@ -4,3 +4,4 @@ colors
 end
 
 two_elements = ['shoes', 'hats']
+two_elements
