@@ -13,6 +13,6 @@ def first_element (two_elements)
 end
 
  
-def my_third_element (third_element)
-  third_element[2]
+def my_third_element (two_elements)
+  two_element[2]
 end
