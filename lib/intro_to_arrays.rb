@@ -12,7 +12,7 @@ def first_element (two_elements)
   two_elements.first 
 end
 
- third_element = ['addidas', 'nike', 'puma']
+ 
 def my_third_element (third_element)
   third_element[2]
 end
