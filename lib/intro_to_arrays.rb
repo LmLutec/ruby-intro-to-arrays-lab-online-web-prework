@@ -9,6 +9,6 @@ two_elements
 end
 
 def first_element
-  indexing = ['one', 'new' , 'element']
-  indexing.first 
+  two_elements = ['shoes', 'shirts', 'hats']
+  two_elements.first 
 end
