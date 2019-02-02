@@ -1,4 +1,5 @@
+def instantiate_new_array
+colors = ['blue' , 'green' , 'black' , 'purple']
+colors
 
-array = ['element' , 'element' , 'element' , 'element']
-array
 
