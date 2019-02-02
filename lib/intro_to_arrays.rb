@@ -8,6 +8,6 @@ two_elements = ['shoes', 'hats']
 two_elements
 end
 
-def indexing
+def first_element
   array_with_two_elements.first 
 end
