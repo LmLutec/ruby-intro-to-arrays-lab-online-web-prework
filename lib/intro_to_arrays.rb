@@ -14,5 +14,5 @@ end
 
  
 def my_third_element (two_elements)
-  two_element[2]
+  two_elements[2]
 end
