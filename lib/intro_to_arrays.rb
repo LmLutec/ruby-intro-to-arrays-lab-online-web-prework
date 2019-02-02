@@ -20,7 +20,7 @@ def last_element(last_element)
   last_element.last 
 end
 
-def first_element_with_array(first_element_with_array)
+def first_element_with_array_methods(first_element_with_array)
   first_element_with_array.first 
 end
 
