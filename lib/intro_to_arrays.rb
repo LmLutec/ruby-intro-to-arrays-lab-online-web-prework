@@ -15,3 +15,7 @@ end
 def third_element (three_elements)
   three_elements[2]
 end
+
+def last_element(last_element)
+  last_element.last 
+end
