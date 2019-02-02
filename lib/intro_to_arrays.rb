@@ -10,5 +10,5 @@ end
 
 def first_element
   two_elements = ['shoes', 'shirts', 'hats']
-  two_elements.index('shirts')
+  two_elements.first 
 end
